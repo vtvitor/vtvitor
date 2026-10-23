@@ -8,7 +8,6 @@
 
   **Desenvolvedor em formação · Back-end · Web · Mobile · Hardware**
 
-  Gosto de transformar ideias em soluções reais, unindo programação e eletrônica.
 
 </div>
 
