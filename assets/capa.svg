@@ -10,12 +10,13 @@
 <g stroke-linecap="round" stroke-width="9"><path d="M855 164h45 M855 190h40 M855 217h30 M855 245h35" stroke="#27487D"/><path d="M930 167h76 M942 192h65 M931 218h112 M950 248h58" stroke="#40CFF8"/><path d="M1025 167h51 M1018 192h76 M1050 218h40" stroke="#3267CD"/></g></g>
 <path d="M1090 70 C1030 36 988 41 953 77" fill="none" stroke="#40C5F0" stroke-width="3" opacity=".65"/><circle cx="1132" cy="72" r="5" fill="#46D8F6"/><path d="M1156 312 l7 13 13 7 -13 6 -7 14 -6 -14 -13 -6 13 -7Z" fill="#59CFFE"/>
 <g font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="bold" fill="#E4F1FF">
-<g transform="translate(61 315)"><rect width="100" height="42" rx="12" fill="#10294f" stroke="#3473b8"/><circle cx="19" cy="21" r="7" fill="#F89862"/><text x="34" y="27">Java</text></g>
-<g transform="translate(169 315)"><rect width="154" height="42" rx="12" fill="#10294f" stroke="#3473b8"/><circle cx="19" cy="21" r="7" fill="#70D078"/><text x="34" y="27">Spring Boot</text></g>
-<g transform="translate(331 315)"><rect width="148" height="42" rx="12" fill="#10294f" stroke="#3473b8"/><circle cx="19" cy="21" r="7" fill="#F2D44B"/><text x="34" y="27">JavaScript</text></g>
-<g transform="translate(487 315)"><rect width="125" height="42" rx="12" fill="#10294f" stroke="#3473b8"/><circle cx="19" cy="21" r="7" fill="#62DB91"/><text x="34" y="27">Node.js</text></g>
-<g transform="translate(620 315)"><rect width="159" height="42" rx="12" fill="#10294f" stroke="#3473b8"/><circle cx="19" cy="21" r="7" fill="#58D2EF"/><text x="34" y="27">React Native</text></g>
-<g transform="translate(787 315)"><rect width="97" height="42" rx="12" fill="#10294f" stroke="#3473b8"/><circle cx="19" cy="21" r="7" fill="#E2EAFB"/><text x="34" y="27">Expo</text></g>
-<g transform="translate(892 315)"><rect width="246" height="42" rx="12" fill="#10294f" stroke="#3473b8"/><circle cx="19" cy="21" r="7" fill="#F7AB68"/><text x="34" y="27">ESP32 • Arduino • RFID</text></g></g>
+<g transform="translate(88 315)"><rect width="100" height="42" rx="12" fill="#10294f" stroke="#3473b8"/><circle cx="19" cy="21" r="7" fill="#F89862"/><text x="34" y="27">Java</text></g>
+<g transform="translate(196 315)"><rect width="154" height="42" rx="12" fill="#10294f" stroke="#3473b8"/><circle cx="19" cy="21" r="7" fill="#70D078"/><text x="34" y="27">Spring Boot</text></g>
+<g transform="translate(358 315)"><rect width="148" height="42" rx="12" fill="#10294f" stroke="#3473b8"/><circle cx="19" cy="21" r="7" fill="#F2D44B"/><text x="34" y="27">JavaScript</text></g>
+<g transform="translate(514 315)"><rect width="125" height="42" rx="12" fill="#10294f" stroke="#3473b8"/><circle cx="19" cy="21" r="7" fill="#62DB91"/><text x="34" y="27">Node.js</text></g>
+<g transform="translate(647 315)"><rect width="159" height="42" rx="12" fill="#10294f" stroke="#3473b8"/><circle cx="19" cy="21" r="7" fill="#58D2EF"/><text x="34" y="27">React Native</text></g>
+<g transform="translate(814 315)"><rect width="97" height="42" rx="12" fill="#10294f" stroke="#3473b8"/><circle cx="19" cy="21" r="7" fill="#E2EAFB"/><text x="34" y="27">Expo</text></g>
+<g transform="translate(919 315)"><rect width="193" height="42" rx="12" fill="#10294f" stroke="#3473b8"/><circle cx="19" cy="21" r="7" fill="#F7AB68"/><text x="34" y="27">ESP32 • Arduino</text></g>
+</g>
 <rect x="1" y="1" width="1198" height="398" rx="17" fill="none" stroke="#4772A5" stroke-opacity=".45" stroke-width="2"/>
 </svg>
