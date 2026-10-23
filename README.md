@@ -8,6 +8,10 @@
   **Desenvolvedor em formação · Back-end · Web · Mobile**
 
   <sub>Gosto de transformar ideias em aplicações que resolvem problemas reais.</sub>
+
+  🎮 **VITOR QUEST** — um mini game feito com JavaScript.
+
+  [Ver o código do jogo](jogo/index.html) · [Jogar quando GitHub Pages estiver habilitado](https://vtvitor.github.io/vtvitor/jogo/)
 </div>
 
 <br />
