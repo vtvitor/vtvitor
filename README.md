@@ -1,59 +1,62 @@
 <div align="center">
-  <img src="assets/capa.svg" width="100%" alt="Vitor — Desenvolvimento de Software | Back-end, Web e Mobile" />
+
+  <img src="assets/capa.svg" alt="Vitor — Desenvolvedor de Software" width="100%" />
 
   <br />
 
-  ### Olá, eu sou o Vitor 👋
+  ### Oi, eu sou o Vitor! 👋
 
-  **Desenvolvedor em formação · Back-end · Web · Mobile**
+  **Desenvolvedor em formação · Back-end · Web · Mobile · Hardware**
 
-  <sub>Gosto de transformar ideias em aplicações que resolvem problemas reais.</sub>
+  Gosto de transformar ideias em soluções reais, unindo programação e eletrônica.
 
-  🎮 **VITOR QUEST** — um mini game feito com JavaScript.
-
-  [Ver o código do jogo](jogo/index.html) · [Jogar quando GitHub Pages estiver habilitado](https://vtvitor.github.io/vtvitor/jogo/)
 </div>
 
-<br />
+---
 
-## Sobre mim
+### 👨‍💻 Sobre mim
 
-Sou estudante e desenvolvedor em formação, com interesse em criar soluções completas — de APIs e bancos de dados até interfaces web e aplicativos mobile.
+Estou em constante aprendizado e gosto de explorar diferentes áreas da tecnologia: desde o desenvolvimento de APIs e interfaces até aplicativos mobile e projetos físicos com microcontroladores.
 
-- 💻 Desenvolvimento com **Java, JavaScript e Node.js**
-- 📱 Aplicativos com **React Native e Expo**
-- ⚙️ Estudos e projetos com **Spring Boot e APIs REST**
-- 🗃️ Experiência de aprendizado com **SQL e MySQL**
-- 🚀 Buscando evoluir na arquitetura de aplicações e na qualidade do código
+- 💻 Desenvolvo com **Java, JavaScript, Node.js e Spring Boot**
+- 📱 Crio aplicativos com **React Native e Expo**
+- 🌐 Trabalho com **HTML, CSS** e desenvolvimento web
+- 🗄️ Conheço **SQL e MySQL**
+- 🔌 Também trabalho com **ESP32, Arduino e RFID**, integrando hardware e software
+- 🚀 Busco evoluir com projetos práticos e boas práticas de desenvolvimento
 
-## Tecnologias
+### 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
-| ⚙️ Back-end | 🌐 Web | 📱 Mobile | 🗄️ Dados |
-|:---:|:---:|:---:|:---:|
-| Java | JavaScript | React Native | SQL |
-| Spring Boot | HTML / CSS | Expo | MySQL |
-| Node.js | | | |
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,html,css,react,mysql,arduino&theme=dark&perline=9" alt="Java, Spring Boot, Node.js, JavaScript, HTML, CSS, React Native, MySQL e Arduino" />
 
-<br />
+  <br /><br />
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,html,css,react,mysql&theme=dark&perline=8" alt="Java, Spring Boot, Node.js, JavaScript, HTML, CSS, React e MySQL" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/React_Native-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-<img src="https://img.shields.io/badge/Expo-0B1220?style=for-the-badge&logo=expo&logoColor=FFFFFF" alt="Expo" />
-<img src="https://img.shields.io/badge/APIs_REST-0B1220?style=for-the-badge&logo=fastapi&logoColor=40C9B4" alt="APIs REST" />
+  <img src="https://img.shields.io/badge/React_Native-12213A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-12213A?style=flat-square&logo=expo&logoColor=FFFFFF" alt="Expo" />
+  <img src="https://img.shields.io/badge/ESP32-12213A?style=flat-square&logo=espressif&logoColor=E7352C" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Arduino-12213A?style=flat-square&logo=arduino&logoColor=00979D" alt="Arduino" />
+  <img src="https://img.shields.io/badge/RFID-12213A?style=flat-square&logoColor=FFFFFF" alt="RFID" />
 
 </div>
 
-## Áreas de interesse
+<br />
 
-**Desenvolvimento back-end** · **Aplicações web** · **Desenvolvimento mobile** · **Integração entre sistemas**
+| Área | Tecnologias |
+| :-- | :-- |
+| **Back-end** | Java, Spring Boot, Node.js, APIs REST |
+| **Web** | JavaScript, HTML, CSS |
+| **Mobile** | React Native, Expo |
+| **Banco de dados** | SQL, MySQL |
+| **Hardware e IoT** | ESP32, Arduino, RFID |
+
+### 🔧 Software + Hardware
+
+Gosto de desenvolver soluções que conectam o mundo digital ao físico, usando **microcontroladores**, **leitores RFID** e integração com aplicações e serviços.
 
 ---
 
 <div align="center">
-  <sub>Aprendizado contínuo • Curiosidade • Código com propósito</sub>
+  <sub>💙 Tecnologia, criatividade e aprendizado contínuo.</sub>
 </div>
