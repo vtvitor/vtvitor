@@ -1,52 +1,55 @@
 <div align="center">
-  <img src="assets/capa.svg" alt="Vitor — Desenvolvimento de Software" width="100%" />
-  <br/><br/>
+  <img src="assets/capa.svg" width="100%" alt="Vitor — Desenvolvimento de Software | Back-end, Web e Mobile" />
 
-  **Desenvolvedor em formação | Back-end · Web · Integração de Sistemas**
+  <br />
 
-  <sub>Transformando ideias em soluções práticas por meio do código.</sub>
+  ### Olá, eu sou o Vitor 👋
+
+  **Desenvolvedor em formação · Back-end · Web · Mobile**
+
+  <sub>Gosto de transformar ideias em aplicações que resolvem problemas reais.</sub>
 </div>
+
+<br />
+
+## Sobre mim
+
+Sou estudante e desenvolvedor em formação, com interesse em criar soluções completas — de APIs e bancos de dados até interfaces web e aplicativos mobile.
+
+- 💻 Desenvolvimento com **Java, JavaScript e Node.js**
+- 📱 Aplicativos com **React Native e Expo**
+- ⚙️ Estudos e projetos com **Spring Boot e APIs REST**
+- 🗃️ Experiência de aprendizado com **SQL e MySQL**
+- 🚀 Buscando evoluir na arquitetura de aplicações e na qualidade do código
+
+## Tecnologias
+
+<div align="center">
+
+| ⚙️ Back-end | 🌐 Web | 📱 Mobile | 🗄️ Dados |
+|:---:|:---:|:---:|:---:|
+| Java | JavaScript | React Native | SQL |
+| Spring Boot | HTML / CSS | Expo | MySQL |
+| Node.js | | | |
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,html,css,react,mysql&theme=dark&perline=8" alt="Java, Spring Boot, Node.js, JavaScript, HTML, CSS, React e MySQL" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/React_Native-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/Expo-0B1220?style=for-the-badge&logo=expo&logoColor=FFFFFF" alt="Expo" />
+<img src="https://img.shields.io/badge/APIs_REST-0B1220?style=for-the-badge&logo=fastapi&logoColor=40C9B4" alt="APIs REST" />
+
+</div>
+
+## Áreas de interesse
+
+**Desenvolvimento back-end** · **Aplicações web** · **Desenvolvimento mobile** · **Integração entre sistemas**
 
 ---
 
-### 👨‍💻 Sobre mim
-
-Olá! Sou **Vitor**, desenvolvedor em formação, interessado em criar aplicações úteis e aprender continuamente.
-
-Tenho focado meus estudos em **Java**, **Spring Boot**, **JavaScript** e **bancos de dados**, explorando o desenvolvimento de APIs REST e aplicações web. Também tenho interesse em soluções que conectam software e hardware.
-
-- 🎯 **Foco:** desenvolvimento back-end e aplicações web
-- 📚 **Estudando:** arquitetura de APIs, persistência de dados e boas práticas
-- 💡 **Interesses:** tecnologia aplicada a problemas reais, mobilidade urbana e automação
-- 🚀 **Objetivo:** evoluir como desenvolvedor e colaborar em soluções de qualidade
-
-### 🛠️ Tecnologias e ferramentas
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,postgres,git,github,vscode&theme=dark" alt="Java, Spring Boot, JavaScript, HTML, CSS, MySQL, PostgreSQL, Git, GitHub e VS Code" />
-</div>
-
-<br/>
-
-<div align="center">
-
-  **Back-end:** Java · Spring Boot · APIs REST · JPA
-
-  **Front-end:** JavaScript · HTML · CSS
-
-  **Dados e ferramentas:** SQL · MySQL · PostgreSQL · Git · GitHub
-
-</div>
-
-### 🌱 No que estou evoluindo
-
-```text
-Construção de APIs REST   ██████████░░  Em desenvolvimento
-Aplicações web            ██████████░░  Em desenvolvimento
-Banco de dados            █████████░░░  Em desenvolvimento
-Boas práticas de código   ████████░░░░  Aprendizado contínuo
-```
-
-<div align="center">
-  <sub>Curiosidade, prática e aprendizado contínuo.</sub>
+  <sub>Aprendizado contínuo • Curiosidade • Código com propósito</sub>
 </div>
