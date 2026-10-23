@@ -43,13 +43,16 @@ Estou em constante aprendizado e gosto de explorar diferentes áreas da tecnolog
 
 <br />
 
-| Área | Tecnologias |
-| :-- | :-- |
-| **Back-end** | Java, Spring Boot, Node.js, APIs REST |
-| **Web** | JavaScript, HTML, CSS |
-| **Mobile** | React Native, Expo |
-| **Banco de dados** | SQL, MySQL |
-| **Hardware e IoT** | ESP32, Arduino, RFID |
+<table align="center">
+  <thead><tr><th align="center">Área</th><th align="center">Tecnologias</th></tr></thead>
+  <tbody>
+    <tr><td align="center"><strong>Back-end</strong></td><td align="center">Java, Spring Boot, Node.js, APIs REST</td></tr>
+    <tr><td align="center"><strong>Web</strong></td><td align="center">JavaScript, HTML, CSS</td></tr>
+    <tr><td align="center"><strong>Mobile</strong></td><td align="center">React Native, Expo</td></tr>
+    <tr><td align="center"><strong>Banco de dados</strong></td><td align="center">SQL, MySQL</td></tr>
+    <tr><td align="center"><strong>Hardware e IoT</strong></td><td align="center">ESP32, Arduino, RFID</td></tr>
+  </tbody>
+</table>
 
 ### 🔧 Software + Hardware
 
