@@ -53,9 +53,6 @@ Estou em constante aprendizado e gosto de explorar diferentes áreas da tecnolog
   </tbody>
 </table>
 
-### 🔧 Software + Hardware
-
-Gosto de desenvolver soluções que conectam o mundo digital ao físico, usando **microcontroladores**, **leitores RFID** e integração com aplicações e serviços.
 
 ---
 
