@@ -1,61 +1,83 @@
 <div align="center">
 
-  <img src="assets/capa.svg" alt="Vitor — Desenvolvedor de Software" width="100%" />
+# 👋 Olá! Eu sou o Vitor
 
-  <br />
+### Desenvolvedor de Software | Web • Mobile • Back-end • IoT
 
-  ### Oi, eu sou o Vitor! 👋
+Sou estudante e desenvolvedor, com interesse em criar soluções práticas que conectam software e hardware. Trabalho com desenvolvimento web, aplicações mobile e projetos com microcontroladores.
 
-  **Desenvolvedor em formação · Back-end · Web · Mobile · Hardware**
-
+[![GitHub](https://img.shields.io/badge/GitHub-vtvitor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vtvitor)
 
 </div>
 
 ---
 
-### 👨‍💻 Sobre mim
+## 🚀 Sobre mim
 
-Estou em constante aprendizado e gosto de explorar diferentes áreas da tecnologia: desde o desenvolvimento de APIs e interfaces até aplicativos mobile e projetos físicos com microcontroladores.
+- 💻 Desenvolvimento de aplicações web com **HTML, CSS e JavaScript**.
+- ☕ Back-end com **Java, Spring Boot e APIs REST**.
+- 📱 Desenvolvimento mobile com **React Native, Expo e Node.js**.
+- 🗄️ Banco de dados **MySQL**.
+- 🔌 Projetos de eletrônica e automação com **ESP32 e Arduino**.
+- 🎯 Interesse em aprender, desenvolver projetos e aprimorar minhas habilidades.
 
-- 💻 Desenvolvo com **Java, JavaScript, Node.js e Spring Boot**
-- 📱 Crio aplicativos com **React Native e Expo**
-- 🌐 Trabalho com **HTML, CSS** e desenvolvimento web
-- 🗄️ Conheço **SQL e MySQL**
-- 🔌 Também trabalho com **ESP32, Arduino e RFID**, integrando hardware e software
-- 🚀 Busco evoluir com projetos práticos e boas práticas de desenvolvimento
-
-### 🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,html,css,react,mysql,arduino&theme=dark&perline=9" alt="Java, Spring Boot, Node.js, JavaScript, HTML, CSS, React Native, MySQL e Arduino" />
+### Linguagens e Web
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-  <br /><br />
+### Back-end e banco de dados
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-333333?style=for-the-badge)
 
-  <img src="https://img.shields.io/badge/React_Native-12213A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-12213A?style=flat-square&logo=expo&logoColor=FFFFFF" alt="Expo" />
-  <img src="https://img.shields.io/badge/ESP32-12213A?style=flat-square&logo=espressif&logoColor=E7352C" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Arduino-12213A?style=flat-square&logo=arduino&logoColor=00979D" alt="Arduino" />
-  <img src="https://img.shields.io/badge/RFID-12213A?style=flat-square&logoColor=FFFFFF" alt="RFID" />
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+### Hardware e IoT
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 
 </div>
 
-<br />
+## 📋 Áreas de conhecimento
 
-<table align="center">
-  <thead><tr><th align="center">Área</th><th align="center">Tecnologias</th></tr></thead>
-  <tbody>
-    <tr><td align="center"><strong>Back-end</strong></td><td align="center">Java, Spring Boot, Node.js, APIs REST</td></tr>
-    <tr><td align="center"><strong>Web</strong></td><td align="center">JavaScript, HTML, CSS</td></tr>
-    <tr><td align="center"><strong>Mobile</strong></td><td align="center">React Native, Expo</td></tr>
-    <tr><td align="center"><strong>Banco de dados</strong></td><td align="center">SQL, MySQL</td></tr>
-    <tr><td align="center"><strong>Hardware e IoT</strong></td><td align="center">ESP32, Arduino, RFID</td></tr>
-  </tbody>
-</table>
+| Área | Tecnologias |
+|:---:|:---|
+| **Back-end** | Java, Spring Boot, Node.js, APIs REST |
+| **Front-end** | HTML, CSS, JavaScript |
+| **Mobile** | React Native, Expo |
+| **Banco de dados** | MySQL, SQL |
+| **Hardware e IoT** | ESP32, Arduino |
 
+## 📌 Projetos em destaque
+
+| Projeto | Descrição |
+|:---|:---|
+| 🚌 **BusPay** | Projeto de transporte público, cartão e recarga de saldo. |
+| 🎬 **CineManager** | Projeto de gerenciamento relacionado a cinema. |
+| ✅ **Lista de Tarefas** | Aplicação para organizar tarefas. |
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vtvitor&show_icons=true&theme=tokyonight&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vtvitor&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 <div align="center">
-  <sub>💙 Tecnologia, criatividade e aprendizado contínuo.</sub>
+
+✨ **Sempre aprendendo, construindo e evoluindo.**
+
 </div>
