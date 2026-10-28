@@ -10,6 +10,15 @@ Sou estudante e desenvolvedor, com interesse em criar soluções práticas que c
 
 </div>
 
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vtvitor&show_icons=true&theme=tokyonight&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vtvitor&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
 ---
 
 ## 🚀 Sobre mim
@@ -56,23 +65,6 @@ Sou estudante e desenvolvedor, com interesse em criar soluções práticas que c
 | **Mobile** | React Native, Expo |
 | **Banco de dados** | MySQL, SQL |
 | **Hardware e IoT** | ESP32, Arduino |
-
-## 📌 Projetos em destaque
-
-| Projeto | Descrição |
-|:---|:---|
-| 🚌 **BusPay** | Projeto de transporte público, cartão e recarga de saldo. |
-| 🎬 **CineManager** | Projeto de gerenciamento relacionado a cinema. |
-| ✅ **Lista de Tarefas** | Aplicação para organizar tarefas. |
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vtvitor&show_icons=true&theme=tokyonight&hide_border=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vtvitor&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
