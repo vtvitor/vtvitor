@@ -1,40 +1,75 @@
-# Vitor Derencio
+<div align="center">
 
-**Desenvolvimento de software · Web, back-end e sistemas embarcados**
+# 👋 Olá! Eu sou o Vitor
 
-Sou estudante de Desenvolvimento de Sistemas e venho desenvolvendo aplicações web, APIs e projetos com microcontroladores. Meu foco atual é Java, Spring Boot e JavaScript, principalmente na integração entre interface, regras de negócio e banco de dados.
+### Desenvolvedor de Software | Web • Mobile • Back-end • IoT
 
-[Aplicação BusPass](https://frontend-projeto-kmjv.onrender.com) · [Código-fonte](https://github.com/vtvitor/BusPass) · [Site do projeto](https://landing-page-wt6o.onrender.com)
+Sou estudante e desenvolvedor, com interesse em criar soluções práticas que conectam software e hardware. Trabalho com desenvolvimento web, aplicações mobile e projetos com microcontroladores.
+
+[![GitHub](https://img.shields.io/badge/GitHub-vtvitor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vtvitor)
+
+</div>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vtvitor&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## Trabalho atual
+## 🚀 Sobre mim
 
-### [BusPass](https://github.com/vtvitor/BusPass) — mobilidade urbana
+- 💻 Desenvolvimento de aplicações web com **HTML, CSS e JavaScript**.
+- ☕ Back-end com **Java, Spring Boot e APIs REST**.
+- 📱 Desenvolvimento mobile com **React Native, Expo e Node.js**.
+- 🗄️ Banco de dados **MySQL**.
+- 🔌 Projetos de eletrônica e automação com **ESP32 e Arduino**.
+- 🎯 Interesse em aprender, desenvolver projetos e aprimorar minhas habilidades.
 
-Projeto desenvolvido em equipe na **Four Sync**, com uma plataforma web para gerenciamento de cartões de transporte, consulta de saldo, recargas demonstrativas e informações de linhas e pontos de ônibus.
+## 🛠️ Tecnologias e ferramentas
 
-A aplicação utiliza **JavaScript no front-end**, uma **API REST com Java e Spring Boot** e **MySQL** para persistência dos dados. Também inclui um protótipo físico com **ESP32, Arduino e leitor RFID**, cuja integração ainda está em testes.
+<div align="center">
 
-**Repositórios:** [aplicação completa](https://github.com/vtvitor/BusPass) · [front-end](https://github.com/vtvitor/frontend-projeto) · [back-end](https://github.com/vtvitor/backend-projeto) · [landing page](https://github.com/vtvitor/-landing-page)
+### Linguagens e Web
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Tecnologias
+### Back-end e banco de dados
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-333333?style=for-the-badge)
 
-| Área | Experiência prática |
-| --- | --- |
-| Back-end | Java, Spring Boot, APIs REST |
-| Front-end | HTML, CSS, JavaScript |
-| Mobile | React Native, Expo, Node.js |
-| Banco de dados | MySQL |
-| Hardware e IoT | ESP32, Arduino |
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-## GitHub
+### Hardware e IoT
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 
-<details>
-<summary>Distribuição de linguagens nos repositórios</summary>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtvitor&layout=compact&hide_border=true&hide_title=true&theme=transparent&langs_count=6" alt="Linguagens presentes nos repositórios públicos" width="340">
+## 📋 Áreas de conhecimento
 
-<sub>O gráfico considera os repositórios públicos e não representa o nível de domínio de cada linguagem.</sub>
+| Área | Tecnologias |
+|:---:|:---|
+| **Back-end** | Java, Spring Boot, Node.js, APIs REST |
+| **Front-end** | HTML, CSS, JavaScript |
+| **Mobile** | React Native, Expo |
+| **Banco de dados** | MySQL, SQL |
+| **Hardware e IoT** | ESP32, Arduino |
 
-</details>
+---
+
+<div align="center">
+
+✨ **Sempre aprendendo, construindo e evoluindo.**
+
+</div>
