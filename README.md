@@ -14,7 +14,7 @@ Sou estudante e desenvolvedor, com interesse em criar soluções práticas que c
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vtvitor&show_icons=true&theme=tokyonight&hide_border=true)
+
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vtvitor&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
