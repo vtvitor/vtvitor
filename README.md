@@ -1,75 +1,72 @@
 <div align="center">
 
-# 👋 Olá! Eu sou o Vitor
+# Olá, eu sou o Vitor 👋
 
-### Desenvolvedor de Software | Web • Mobile • Back-end • IoT
+**Estudante de Desenvolvimento de Sistemas | Web, Mobile e Hardware**
 
-Sou estudante e desenvolvedor, com interesse em criar soluções práticas que conectam software e hardware. Trabalho com desenvolvimento web, aplicações mobile e projetos com microcontroladores.
+Gosto de desenvolver aplicações e de entender como tudo funciona, da interface ao banco de dados. Também curto a parte física dos projetos, principalmente quando posso testar alguma ideia com ESP32 ou Arduino.
 
-[![GitHub](https://img.shields.io/badge/GitHub-vtvitor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vtvitor)
-
-</div>
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vtvitor&layout=compact&theme=tokyonight&hide_border=true)
+[BusPass](https://github.com/vtvitor/BusPass) · [Ver a plataforma](https://frontend-projeto-kmjv.onrender.com) · [Landing page](https://landing-page-wt6o.onrender.com)
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
-
-- 💻 Desenvolvimento de aplicações web com **HTML, CSS e JavaScript**.
-- ☕ Back-end com **Java, Spring Boot e APIs REST**.
-- 📱 Desenvolvimento mobile com **React Native, Expo e Node.js**.
-- 🗄️ Banco de dados **MySQL**.
-- 🔌 Projetos de eletrônica e automação com **ESP32 e Arduino**.
-- 🎯 Interesse em aprender, desenvolver projetos e aprimorar minhas habilidades.
-
-## 🛠️ Tecnologias e ferramentas
+## Linguagens nos meus repositórios
 
 <div align="center">
 
-### Linguagens e Web
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Back-end e banco de dados
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-333333?style=for-the-badge)
-
-### Mobile
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-
-### Hardware e IoT
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtvitor&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais usadas nos repositórios públicos do GitHub" />
 
 </div>
 
-## 📋 Áreas de conhecimento
+## Um pouco sobre mim
 
-| Área | Tecnologias |
-|:---:|:---|
-| **Back-end** | Java, Spring Boot, Node.js, APIs REST |
-| **Front-end** | HTML, CSS, JavaScript |
-| **Mobile** | React Native, Expo |
-| **Banco de dados** | MySQL, SQL |
-| **Hardware e IoT** | ESP32, Arduino |
+Tenho estudado principalmente **Java, Spring Boot e JavaScript**. No desenvolvimento mobile, já trabalhei com **React Native e Expo**. Gosto tanto de criar a interface quanto de entender a lógica por trás das funcionalidades.
+
+Um dos projetos em que estou envolvido é o **BusPass**, desenvolvido com a equipe Four Sync. Nele, juntamos uma aplicação web, uma API e um banco de dados com um protótipo físico de leitura de cartões. A parte de integração com o hardware ainda está em testes, então seguimos fazendo ajustes e aprendendo bastante no processo.
+
+## Conhecimentos e tecnologias
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Área</th>
+      <th align="left">Tecnologias</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left">Front-end</td>
+      <td align="left">HTML, CSS e JavaScript</td>
+    </tr>
+    <tr>
+      <td align="left">Back-end</td>
+      <td align="left">Java, Spring Boot e APIs REST</td>
+    </tr>
+    <tr>
+      <td align="left">Mobile</td>
+      <td align="left">React Native, Expo e Node.js (ambiente de desenvolvimento)</td>
+    </tr>
+    <tr>
+      <td align="left">Banco de dados</td>
+      <td align="left">MySQL</td>
+    </tr>
+    <tr>
+      <td align="left">Hardware</td>
+      <td align="left">ESP32 e Arduino</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ---
 
 <div align="center">
 
-✨ **Sempre aprendendo, construindo e evoluindo.**
+Se quiser conhecer melhor meu trabalho, pode dar uma olhada nos repositórios. É por aqui que compartilho os projetos e as coisas que venho aprendendo.
 
 </div>
